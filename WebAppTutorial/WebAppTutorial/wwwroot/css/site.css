@@ -1,0 +1,25 @@
+/*Style Test Page*/
+.green-text {
+    color: lightgreen;
+    font-weight: 400;
+    text-shadow: 2px 2px 3px darkolivegreen;
+}
+
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
