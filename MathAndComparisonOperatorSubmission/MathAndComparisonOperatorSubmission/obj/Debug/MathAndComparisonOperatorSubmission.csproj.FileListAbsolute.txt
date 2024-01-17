@@ -1,0 +1,6 @@
+C:\Users\Judah Kirkwood\GitHub\C#Projects\MathAndComparisonOperatorSubmission\MathAndComparisonOperatorSubmission\bin\Debug\MathAndComparisonOperatorSubmission.exe.config
+C:\Users\Judah Kirkwood\GitHub\C#Projects\MathAndComparisonOperatorSubmission\MathAndComparisonOperatorSubmission\bin\Debug\MathAndComparisonOperatorSubmission.exe
+C:\Users\Judah Kirkwood\GitHub\C#Projects\MathAndComparisonOperatorSubmission\MathAndComparisonOperatorSubmission\bin\Debug\MathAndComparisonOperatorSubmission.pdb
+C:\Users\Judah Kirkwood\GitHub\C#Projects\MathAndComparisonOperatorSubmission\MathAndComparisonOperatorSubmission\obj\Debug\MathAndComparisonOperatorSubmission.csproj.CoreCompileInputs.cache
+C:\Users\Judah Kirkwood\GitHub\C#Projects\MathAndComparisonOperatorSubmission\MathAndComparisonOperatorSubmission\obj\Debug\MathAndComparisonOperatorSubmission.exe
+C:\Users\Judah Kirkwood\GitHub\C#Projects\MathAndComparisonOperatorSubmission\MathAndComparisonOperatorSubmission\obj\Debug\MathAndComparisonOperatorSubmission.pdb

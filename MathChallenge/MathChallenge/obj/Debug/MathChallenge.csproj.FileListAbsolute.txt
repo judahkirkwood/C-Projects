@@ -1,0 +1,7 @@
+C:\Users\Judah Kirkwood\GitHub\C#Projects\MathChallenge\MathChallenge\bin\Debug\MathChallenge.exe.config
+C:\Users\Judah Kirkwood\GitHub\C#Projects\MathChallenge\MathChallenge\bin\Debug\MathChallenge.exe
+C:\Users\Judah Kirkwood\GitHub\C#Projects\MathChallenge\MathChallenge\bin\Debug\MathChallenge.pdb
+C:\Users\Judah Kirkwood\GitHub\C#Projects\MathChallenge\MathChallenge\obj\Debug\MathChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Judah Kirkwood\GitHub\C#Projects\MathChallenge\MathChallenge\obj\Debug\MathChallenge.exe
+C:\Users\Judah Kirkwood\GitHub\C#Projects\MathChallenge\MathChallenge\obj\Debug\MathChallenge.pdb
+C:\Users\Judah Kirkwood\GitHub\C#Projects\MathChallenge\MathChallenge\obj\Debug\MathChallenge.csproj.AssemblyReference.cache
