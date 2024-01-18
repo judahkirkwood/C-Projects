@@ -1,0 +1,7 @@
+C:\Users\Judah Kirkwood\GitHub\C#Projects\ConditionalStatements\ConditionalStatements\obj\Debug\ConditionalStatements.csproj.AssemblyReference.cache
+C:\Users\Judah Kirkwood\GitHub\C#Projects\ConditionalStatements\ConditionalStatements\obj\Debug\ConditionalStatements.csproj.CoreCompileInputs.cache
+C:\Users\Judah Kirkwood\GitHub\C#Projects\ConditionalStatements\ConditionalStatements\bin\Debug\ConditionalStatements.exe.config
+C:\Users\Judah Kirkwood\GitHub\C#Projects\ConditionalStatements\ConditionalStatements\bin\Debug\ConditionalStatements.exe
+C:\Users\Judah Kirkwood\GitHub\C#Projects\ConditionalStatements\ConditionalStatements\bin\Debug\ConditionalStatements.pdb
+C:\Users\Judah Kirkwood\GitHub\C#Projects\ConditionalStatements\ConditionalStatements\obj\Debug\ConditionalStatements.exe
+C:\Users\Judah Kirkwood\GitHub\C#Projects\ConditionalStatements\ConditionalStatements\obj\Debug\ConditionalStatements.pdb
