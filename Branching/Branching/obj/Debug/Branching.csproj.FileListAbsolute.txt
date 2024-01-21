@@ -1,0 +1,7 @@
+C:\Users\Judah Kirkwood\GitHub\C#Projects\Branching\Branching\bin\Debug\Branching.exe.config
+C:\Users\Judah Kirkwood\GitHub\C#Projects\Branching\Branching\bin\Debug\Branching.exe
+C:\Users\Judah Kirkwood\GitHub\C#Projects\Branching\Branching\bin\Debug\Branching.pdb
+C:\Users\Judah Kirkwood\GitHub\C#Projects\Branching\Branching\obj\Debug\Branching.csproj.AssemblyReference.cache
+C:\Users\Judah Kirkwood\GitHub\C#Projects\Branching\Branching\obj\Debug\Branching.csproj.CoreCompileInputs.cache
+C:\Users\Judah Kirkwood\GitHub\C#Projects\Branching\Branching\obj\Debug\Branching.exe
+C:\Users\Judah Kirkwood\GitHub\C#Projects\Branching\Branching\obj\Debug\Branching.pdb
