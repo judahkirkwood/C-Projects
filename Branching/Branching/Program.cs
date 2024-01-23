@@ -31,7 +31,7 @@ class Program
             double packageWidth = GetValidInput();
 
             // Total size of the package
-            double packageSize = packageWeight + packageHeight + packageLength + packageWidth;
+            double packageSize = packageHeight + packageLength + packageWidth;
 
             // Check if the dimensions total is greater than 50
             if (packageSize > 50)
