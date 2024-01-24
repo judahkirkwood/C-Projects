@@ -11,8 +11,13 @@ namespace Loops
             bool isGuessed = guardian == "Hunter";
             int countNumber = 1;
 
-            
-            
+            // Remove the semicolon after the while statement
+            while (countNumber <= 5)
+            {
+                Console.WriteLine("Count: " + countNumber);
+                countNumber++;
+            }
+            Console.ReadLine();
 
             do
             {
@@ -45,4 +50,5 @@ namespace Loops
         }
     }
 }
+
 
