@@ -33,13 +33,13 @@ class Program
         Console.Write("Enter an index for the List of strings: ");
         int listIndex = GetValidIndex(stringList.Count);
 
-        // Display the content at the specified index in the List
+        // Display content at the specified index in the List
         Console.WriteLine($"Content at index {listIndex}: {stringList[listIndex]}");
 
-        Console.ReadLine(); // Keep the console window open until the user presses Enter
+        Console.ReadLine(); 
     }
 
-    // Function to get valid index input from the user
+    // Function to get index input from user and validate
     static int GetValidIndex(int arrayLength)
     {
         int index;

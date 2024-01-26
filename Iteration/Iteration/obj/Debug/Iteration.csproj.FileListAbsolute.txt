@@ -1,0 +1,7 @@
+C:\Users\Judah Kirkwood\GitHub\C#Projects\Iteration\Iteration\obj\Debug\Iteration.csproj.CoreCompileInputs.cache
+C:\Users\Judah Kirkwood\GitHub\C#Projects\Iteration\Iteration\bin\Debug\Iteration.exe.config
+C:\Users\Judah Kirkwood\GitHub\C#Projects\Iteration\Iteration\bin\Debug\Iteration.exe
+C:\Users\Judah Kirkwood\GitHub\C#Projects\Iteration\Iteration\bin\Debug\Iteration.pdb
+C:\Users\Judah Kirkwood\GitHub\C#Projects\Iteration\Iteration\obj\Debug\Iteration.csproj.AssemblyReference.cache
+C:\Users\Judah Kirkwood\GitHub\C#Projects\Iteration\Iteration\obj\Debug\Iteration.exe
+C:\Users\Judah Kirkwood\GitHub\C#Projects\Iteration\Iteration\obj\Debug\Iteration.pdb
