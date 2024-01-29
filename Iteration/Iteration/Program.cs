@@ -60,85 +60,121 @@ class Program
         //        passingScores.Add(score);
         //    }
         //}
-
-            // List of class names
-            List<string> className = new List<string>() { "Algebra", "English", "History", "Biology", "English" };
-            Console.WriteLine("List of class names:");
-
-            foreach (string name in className)
+        // Part 4
+        bool isFound = false;
+        List<string> otherName = new List<string> { "Science", "Japanese", "Spanish", "Physica Education", "Art", "Choir" };
+        Console.WriteLine("Please input the Class Name.");
+        string searchInput1 = Console.ReadLine();
+        for (int i = 0; i < otherName.Count; i++)
+        {
+            if (otherName[i] == searchInput1)
             {
-                Console.WriteLine(name);
+                Console.WriteLine($"Found '{searchInput1}' at index: {i}");
+                isFound = true;
+                break;
             }
-
-            // Ask the user to input text to search the list for
-            Console.WriteLine("Enter text to search in the list:");
-            string searchInput = Console.ReadLine();
-
-            bool isFound = false;
-
-            // Loop that iterates through the list and displays the index of the list item that contains matching text
-            for (int i = 0; i < className.Count; i++)
-            {
-                if (className[i].Contains(searchInput))
-                {
-                    Console.WriteLine($"Found '{searchInput}' at index: {i}");
-                    isFound = true;
-
-                    // Stop the loop once a match is found
-                    break;
-                }
-            }
-
-            // Check if user's input is not on the list
-            if (!isFound)
-            {
-                Console.WriteLine($"'{searchInput}' is not found in the list.");
-            }
-
-            // String array containing the current attendants
-            string[] attendance = { "JUDAH", "GABE", "TABITHA", "JESSE" };
-
-            Console.WriteLine("Please enter your first name (type 'exit' to quit):");
-
-            while (true) // Infinite loop
-            {
-                string userInput = Console.ReadLine().ToUpper(); // Get user input and convert to uppercase
-
-                if (userInput == "EXIT")
-                {
-                    // Exit the loop if the user enters "exit"
-                    break;
-                }
-
-                // Check if user's input is a duplicate in the list
-                if (Array.IndexOf(attendance, userInput) != -1)
-                {
-                    Console.WriteLine($"{userInput} - This name is a duplicate.");
-                }
-                else
-                {
-                    // Update attendance with user's input
-                    Array.Resize(ref attendance, attendance.Length + 1);
-                    attendance[attendance.Length - 1] = userInput;
-
-                    // Output updated 
-                    Console.WriteLine("Updated attendance:");
-                    foreach (string name in attendance)
-                    {
-                        Console.WriteLine(name);
-                    }
-                }
-            }
-
-            // Loop where the comparison using "<=" 
-            int count = 1;
-            while (count <= 5) // Loop will iterate 5 times
-            {
-                Console.WriteLine("Iteration: " + count);
-                count++;
-            }
-
-            // Keep the console window open until the user presses Enter
-            Console.ReadLine();
         }
+
+        // Check if user's input is not on the list
+        if (!isFound)
+        {
+            Console.WriteLine($"'{searchInput1}' is not found in the list.");
+        }
+
+
+        // List of class names (Part 5)
+        List<string> className = new List<string>() { "Algebra", "English", "History", "Biology", "English" };
+        Console.WriteLine("List of class names:");
+
+        foreach (string name in className)
+        {
+            Console.WriteLine(name);
+        }
+
+        isFound = false;
+        // Ask the user to input text to search the list for
+        Console.WriteLine("Enter text to search in the list:");
+        string searchInput2 = Console.ReadLine();
+
+        // Loop that iterates through the list and displays the index of the list item that contains matching text
+        for (int i = 0; i < className.Count; i++)
+        {
+            if (className[i] == searchInput2)
+            {
+                Console.WriteLine($"Found '{searchInput2}' at index: {i}");
+                isFound = true;
+            }
+        }
+
+        // Check if user's input is not on the list
+        if (!isFound)
+        {
+            Console.WriteLine($"'{searchInput2}' is not found in the list.");
+        }
+
+
+        // Part 6
+        List<string> className2 = new List<string>() { "Algebra", "English", "History", "Biology", "English" };
+        List<string> dupList = new List<string>();
+        Console.WriteLine("List of class names:");
+        foreach (string name in className2)
+        {
+            if (dupList.Contains(name))
+            {
+                Console.WriteLine($"{name} is a duplicate.");
+            }
+            else
+            {
+                Console.WriteLine($"{name} is unique.");
+                dupList.Add(name);
+            }
+        }
+
+
+        // String array containing the current attendants
+        string[] attendance = { "JUDAH", "GABE", "TABITHA", "JESSE" };
+
+        Console.WriteLine("Please enter your first name (type 'exit' to quit):");
+
+        while (true) // Infinite loop
+        {
+            string userInput = Console.ReadLine().ToUpper(); // Get user input and convert to uppercase
+
+            if (userInput == "EXIT")
+            {
+                // Exit the loop if the user enters "exit"
+                break;
+            }
+
+            // Check if user's input is a duplicate in the list
+            if (Array.IndexOf(attendance, userInput) != -1)
+            {
+                Console.WriteLine($"{userInput} - This name is a duplicate.");
+            }
+            else
+            {
+                // Update attendance with user's input
+                Array.Resize(ref attendance, attendance.Length + 1);
+                attendance[attendance.Length - 1] = userInput;
+
+                // Output updated 
+                Console.WriteLine("Updated attendance:");
+                foreach (string name in attendance)
+                {
+                    Console.WriteLine(name);
+                }
+            }
+        }
+
+        // Loop where the comparison using "<=" 
+        int count = 1;
+        while (count <= 5) // Loop will iterate 5 times
+        {
+            Console.WriteLine("Iteration: " + count);
+            count++;
+        }
+
+        // Keep the console window open until the user presses Enter
+        Console.ReadLine();
     }
+}

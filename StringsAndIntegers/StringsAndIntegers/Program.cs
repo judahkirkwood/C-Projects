@@ -39,7 +39,7 @@ class Program
             Console.WriteLine($"{number} / {divisor} = {result}");
         }
 
-        // Keep the console window open until the user presses Enter
+        // Keeps console window open until user presses Enter
         Console.ReadLine();
     }
 }
