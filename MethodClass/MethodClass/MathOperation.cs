@@ -8,13 +8,13 @@ namespace MethodClass
 {
     public class MathOperation
     {
-        // Void method that takes two integers, adds 5 to the first integer, and displays the second integer
+        // Void method that takes two integers, adds 5 to the first integer, and displays the second to Console
         public void Operation1(int number1, int number2)
         {
             // Add 5 to the first number
             int result = number1 + 5;
 
-            // Displaying the second integer to the screen
+            // Displaying the second integer to Console
             Console.WriteLine($"Result: {result}. Number: {number2}");
         }
     }
