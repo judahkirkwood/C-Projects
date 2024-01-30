@@ -1,0 +1,7 @@
+C:\Users\Judah Kirkwood\GitHub\C#Projects\Method\Method\bin\Debug\Method.exe.config
+C:\Users\Judah Kirkwood\GitHub\C#Projects\Method\Method\bin\Debug\Method.exe
+C:\Users\Judah Kirkwood\GitHub\C#Projects\Method\Method\bin\Debug\Method.pdb
+C:\Users\Judah Kirkwood\GitHub\C#Projects\Method\Method\obj\Debug\Method.csproj.AssemblyReference.cache
+C:\Users\Judah Kirkwood\GitHub\C#Projects\Method\Method\obj\Debug\Method.csproj.CoreCompileInputs.cache
+C:\Users\Judah Kirkwood\GitHub\C#Projects\Method\Method\obj\Debug\Method.exe
+C:\Users\Judah Kirkwood\GitHub\C#Projects\Method\Method\obj\Debug\Method.pdb
