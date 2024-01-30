@@ -12,7 +12,6 @@ namespace Method
         {
             // Instantiate Method1 class
             Method1 method1 = new Method1();
-            SquaredAndCubed.SquareCube(5, out int squareResult, out int cubeResult);
 
             // Ask user to input a number
             Console.Write("Please input a whole number: ");
