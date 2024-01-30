@@ -1,0 +1,6 @@
+C:\Users\Judah Kirkwood\GitHub\C#Projects\MethodClass\MethodClass\bin\Debug\MethodClass.exe.config
+C:\Users\Judah Kirkwood\GitHub\C#Projects\MethodClass\MethodClass\bin\Debug\MethodClass.exe
+C:\Users\Judah Kirkwood\GitHub\C#Projects\MethodClass\MethodClass\bin\Debug\MethodClass.pdb
+C:\Users\Judah Kirkwood\GitHub\C#Projects\MethodClass\MethodClass\obj\Debug\MethodClass.csproj.CoreCompileInputs.cache
+C:\Users\Judah Kirkwood\GitHub\C#Projects\MethodClass\MethodClass\obj\Debug\MethodClass.exe
+C:\Users\Judah Kirkwood\GitHub\C#Projects\MethodClass\MethodClass\obj\Debug\MethodClass.pdb
