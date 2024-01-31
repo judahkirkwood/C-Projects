@@ -1,0 +1,7 @@
+C:\Users\Judah Kirkwood\GitHub\C#Projects\MethodsAndObjects\MethodsAndObjects\obj\Debug\MethodsAndObjects.csproj.AssemblyReference.cache
+C:\Users\Judah Kirkwood\GitHub\C#Projects\MethodsAndObjects\MethodsAndObjects\obj\Debug\MethodsAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\Judah Kirkwood\GitHub\C#Projects\MethodsAndObjects\MethodsAndObjects\bin\Debug\MethodsAndObjects.exe.config
+C:\Users\Judah Kirkwood\GitHub\C#Projects\MethodsAndObjects\MethodsAndObjects\bin\Debug\MethodsAndObjects.exe
+C:\Users\Judah Kirkwood\GitHub\C#Projects\MethodsAndObjects\MethodsAndObjects\bin\Debug\MethodsAndObjects.pdb
+C:\Users\Judah Kirkwood\GitHub\C#Projects\MethodsAndObjects\MethodsAndObjects\obj\Debug\MethodsAndObjects.exe
+C:\Users\Judah Kirkwood\GitHub\C#Projects\MethodsAndObjects\MethodsAndObjects\obj\Debug\MethodsAndObjects.pdb
