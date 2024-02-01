@@ -1,0 +1,7 @@
+C:\Users\Judah Kirkwood\GitHub\C#Projects\AbstractClass\AbstractClass\bin\Debug\AbstractClass.exe.config
+C:\Users\Judah Kirkwood\GitHub\C#Projects\AbstractClass\AbstractClass\bin\Debug\AbstractClass.exe
+C:\Users\Judah Kirkwood\GitHub\C#Projects\AbstractClass\AbstractClass\bin\Debug\AbstractClass.pdb
+C:\Users\Judah Kirkwood\GitHub\C#Projects\AbstractClass\AbstractClass\obj\Debug\AbstractClass.csproj.AssemblyReference.cache
+C:\Users\Judah Kirkwood\GitHub\C#Projects\AbstractClass\AbstractClass\obj\Debug\AbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\Judah Kirkwood\GitHub\C#Projects\AbstractClass\AbstractClass\obj\Debug\AbstractClass.exe
+C:\Users\Judah Kirkwood\GitHub\C#Projects\AbstractClass\AbstractClass\obj\Debug\AbstractClass.pdb
