@@ -19,7 +19,7 @@ namespace Operators
                    !ReferenceEquals(employee1, null) && !ReferenceEquals(employee2, null) &&
                    employee1.ID == employee2.ID;
         }
-        // Overload the "!=" operator to complement the "=="
+        // Overload the "!=" and "==" operators
         public static bool operator !=(Employee employee1, Employee employee2)
         {
             return !(employee1 == employee2);
