@@ -1,0 +1,6 @@
+C:\Users\Judah Kirkwood\GitHub\C#Projects\Parsing Enums\Parsing Enums\bin\Debug\Parsing Enums.exe.config
+C:\Users\Judah Kirkwood\GitHub\C#Projects\Parsing Enums\Parsing Enums\bin\Debug\Parsing Enums.exe
+C:\Users\Judah Kirkwood\GitHub\C#Projects\Parsing Enums\Parsing Enums\bin\Debug\Parsing Enums.pdb
+C:\Users\Judah Kirkwood\GitHub\C#Projects\Parsing Enums\Parsing Enums\obj\Debug\Parsing Enums.csproj.CoreCompileInputs.cache
+C:\Users\Judah Kirkwood\GitHub\C#Projects\Parsing Enums\Parsing Enums\obj\Debug\Parsing Enums.exe
+C:\Users\Judah Kirkwood\GitHub\C#Projects\Parsing Enums\Parsing Enums\obj\Debug\Parsing Enums.pdb
