@@ -1,0 +1,6 @@
+C:\Users\Judah Kirkwood\GitHub\C#Projects\Struct\Struct\obj\Debug\Struct.csproj.CoreCompileInputs.cache
+C:\Users\Judah Kirkwood\GitHub\C#Projects\Struct\Struct\bin\Debug\Struct.exe.config
+C:\Users\Judah Kirkwood\GitHub\C#Projects\Struct\Struct\bin\Debug\Struct.exe
+C:\Users\Judah Kirkwood\GitHub\C#Projects\Struct\Struct\bin\Debug\Struct.pdb
+C:\Users\Judah Kirkwood\GitHub\C#Projects\Struct\Struct\obj\Debug\Struct.exe
+C:\Users\Judah Kirkwood\GitHub\C#Projects\Struct\Struct\obj\Debug\Struct.pdb
