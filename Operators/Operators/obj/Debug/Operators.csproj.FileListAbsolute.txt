@@ -1,0 +1,7 @@
+C:\Users\Judah Kirkwood\GitHub\C#Projects\Operators\Operators\bin\Debug\Operators.exe.config
+C:\Users\Judah Kirkwood\GitHub\C#Projects\Operators\Operators\bin\Debug\Operators.exe
+C:\Users\Judah Kirkwood\GitHub\C#Projects\Operators\Operators\bin\Debug\Operators.pdb
+C:\Users\Judah Kirkwood\GitHub\C#Projects\Operators\Operators\obj\Debug\Operators.csproj.AssemblyReference.cache
+C:\Users\Judah Kirkwood\GitHub\C#Projects\Operators\Operators\obj\Debug\Operators.csproj.CoreCompileInputs.cache
+C:\Users\Judah Kirkwood\GitHub\C#Projects\Operators\Operators\obj\Debug\Operators.exe
+C:\Users\Judah Kirkwood\GitHub\C#Projects\Operators\Operators\obj\Debug\Operators.pdb
