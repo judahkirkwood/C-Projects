@@ -45,7 +45,7 @@ namespace EmployeeAssignment
             List<Employee> joesListLambda = employees.Where(emp => emp.FirstName == "Joe").ToList();
 
             // These are the results using LAMBDA 
-            Console.WriteLine("\nEmployees with the first name 'Joe' (using lambda expression): ");
+            Console.WriteLine("\nEmployees with the first name 'Joe': ");
             foreach (var joeEmployee in joesListLambda)
             {
                 Console.WriteLine($"ID: {joeEmployee.Id}, Name: {joeEmployee.FirstName} {joeEmployee.LastName}");
