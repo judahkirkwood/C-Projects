@@ -8,7 +8,7 @@ namespace EmployeeAssignment
     {
         static void Main(string[] args)
         {
-            // Create a list of at least 10 employees
+            // Employee List
             List<Employee> employees = new List<Employee>
             {
                 new Employee { Id = 1, FirstName = "Joe", LastName = "Schmo" },
@@ -24,19 +24,19 @@ namespace EmployeeAssignment
             };
 
             // Listing Employees with the first name Joe's
-            List<Employee> joesListForeach = new List<Employee>();
+            List<Employee> joesList = new List<Employee>();
 
             foreach (var employee in employees)
             {
                 if (employee.FirstName == "Joe")
                 {
-                    joesListForeach.Add(employee);
+                    joesList.Add(employee);
                 }
             }
 
             // Print the results using foreach loop
             Console.WriteLine("Employees with the first name 'Joe': ");
-            foreach (var joeEmployee in joesListForeach)
+            foreach (var joeEmployee in joesList)
             {
                 Console.WriteLine($"ID: {joeEmployee.Id}, Name: {joeEmployee.FirstName} {joeEmployee.LastName}");
             }
