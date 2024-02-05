@@ -22,7 +22,7 @@ namespace Operators
         // Overload the "!=" and "==" operators
         public static bool operator !=(Employee employee1, Employee employee2)
         {
-            return !(employee1 == employee2);
+            return !(employee1.ID == employee2.ID);
         }
     }
 }
