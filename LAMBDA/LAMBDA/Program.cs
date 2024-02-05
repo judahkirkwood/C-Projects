@@ -23,7 +23,7 @@ namespace EmployeeAssignment
                 new Employee { Id = 10, FirstName = "Thom", LastName = "Yorke" }
             };
 
-            // Listing Employees with the first name Joe's
+            // Using a foreach loop: Create a new list of all employees with the first name “Joe”
             List<Employee> joesList = new List<Employee>();
 
             foreach (var employee in employees)
@@ -34,9 +34,19 @@ namespace EmployeeAssignment
                 }
             }
 
-            // Print the results using foreach loop
+            // These are the results using foreach loop
             Console.WriteLine("Employees with the first name 'Joe': ");
             foreach (var joeEmployee in joesList)
+            {
+                Console.WriteLine($"ID: {joeEmployee.Id}, Name: {joeEmployee.FirstName} {joeEmployee.LastName}");
+            }
+
+            // Using LAMBDA making a "Joe" list
+            List<Employee> joesListLambda = employees.Where(emp => emp.FirstName == "Joe").ToList();
+
+            // These are the results using LAMBDA 
+            Console.WriteLine("\nEmployees with the first name 'Joe' (using lambda expression): ");
+            foreach (var joeEmployee in joesListLambda)
             {
                 Console.WriteLine($"ID: {joeEmployee.Id}, Name: {joeEmployee.FirstName} {joeEmployee.LastName}");
             }
@@ -44,7 +54,7 @@ namespace EmployeeAssignment
             // Employees using LAMBDA with an Id number greater than 5
             List<Employee> highIdEmployeesLambda = employees.Where(emp => emp.Id > 5).ToList();
 
-            // Print the results using lambda expression
+            // Print the results using LAMBDA
             Console.WriteLine("\nEmployees with an ID greater than 5: ");
             foreach (var employee in highIdEmployeesLambda)
             {
@@ -55,4 +65,3 @@ namespace EmployeeAssignment
         }
     }
 }
-
