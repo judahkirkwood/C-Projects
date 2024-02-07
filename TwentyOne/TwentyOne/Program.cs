@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
 
 namespace TwentyOne
 {
@@ -10,6 +11,8 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
+            string text = "Here is some text for the text file.";
+            File.WriteAllText(@"C: \\Users\\Judah Kirkwood\\GitHub\\log.txt", text);
             Console.WriteLine("Welcome to the Kirkwood Hotel and Casino. Let's start by telling me your name.");
             string playerName = Console.ReadLine();
             Console.WriteLine("How much money did you bring today?");
@@ -29,7 +32,7 @@ namespace TwentyOne
                 game -= player;
                 Console.WriteLine("Thank you for playing!");
             }
-            Console.WriteLine("Feel free to look around the casino. Byhe for now.");
+            Console.WriteLine("Feel free to look around the casino. Bye for now.");
             Console.ReadLine();
         }
     }
