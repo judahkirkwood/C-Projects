@@ -11,8 +11,9 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
-            string text = "Here is some text for the text file.";
-            File.WriteAllText(@"C: \\Users\\Judah Kirkwood\\GitHub\\log.txt", text);
+            //string text = "Here is some text for the text file.";
+            //File.WriteAllText(@"C: \\Users\\Judah Kirkwood\\GitHub\\log.txt", text);
+
             Console.WriteLine("Welcome to the Kirkwood Hotel and Casino. Let's start by telling me your name.");
             string playerName = Console.ReadLine();
             Console.WriteLine("How much money did you bring today?");
