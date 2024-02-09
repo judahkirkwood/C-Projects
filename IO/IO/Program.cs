@@ -23,7 +23,7 @@ namespace Input
                 writer.WriteLine(input);
             }
 
-            Console.WriteLine("The number has been logged as: {input}");
+            Console.WriteLine("The number has been logged as: ");
             using (StreamReader reader = new StreamReader("C:\\Users\\Judah Kirkwood\\OneDrive\\Desktop\\Logs.txt"))
             {
                 string content = reader.ReadToEnd();
