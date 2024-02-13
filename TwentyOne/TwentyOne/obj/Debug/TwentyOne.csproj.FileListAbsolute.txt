@@ -5,3 +5,6 @@ C:\Users\Judah Kirkwood\GitHub\C#Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOn
 C:\Users\Judah Kirkwood\GitHub\C#Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
 C:\Users\Judah Kirkwood\GitHub\C#Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb
 C:\Users\Judah Kirkwood\GitHub\C#Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.AssemblyReference.cache
+C:\Users\Judah Kirkwood\GitHub\C#Projects\TwentyOne\TwentyOne\bin\Debug\Casino.dll
+C:\Users\Judah Kirkwood\GitHub\C#Projects\TwentyOne\TwentyOne\bin\Debug\Casino.pdb
+C:\Users\Judah Kirkwood\GitHub\C#Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CopyComplete
