@@ -1,0 +1,12 @@
+C:\Users\Judah Kirkwood\GitHub\C#Projects\TwentyOne\Casino\obj\Debug\net5.0\Casino.csproj.AssemblyReference.cache
+C:\Users\Judah Kirkwood\GitHub\C#Projects\TwentyOne\Casino\obj\Debug\net5.0\Casino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Judah Kirkwood\GitHub\C#Projects\TwentyOne\Casino\obj\Debug\net5.0\Casino.AssemblyInfoInputs.cache
+C:\Users\Judah Kirkwood\GitHub\C#Projects\TwentyOne\Casino\obj\Debug\net5.0\Casino.AssemblyInfo.cs
+C:\Users\Judah Kirkwood\GitHub\C#Projects\TwentyOne\Casino\obj\Debug\net5.0\Casino.csproj.CoreCompileInputs.cache
+C:\Users\Judah Kirkwood\GitHub\C#Projects\TwentyOne\Casino\bin\Debug\net5.0\Casino.deps.json
+C:\Users\Judah Kirkwood\GitHub\C#Projects\TwentyOne\Casino\bin\Debug\net5.0\Casino.dll
+C:\Users\Judah Kirkwood\GitHub\C#Projects\TwentyOne\Casino\bin\Debug\net5.0\ref\Casino.dll
+C:\Users\Judah Kirkwood\GitHub\C#Projects\TwentyOne\Casino\bin\Debug\net5.0\Casino.pdb
+C:\Users\Judah Kirkwood\GitHub\C#Projects\TwentyOne\Casino\obj\Debug\net5.0\Casino.dll
+C:\Users\Judah Kirkwood\GitHub\C#Projects\TwentyOne\Casino\obj\Debug\net5.0\ref\Casino.dll
+C:\Users\Judah Kirkwood\GitHub\C#Projects\TwentyOne\Casino\obj\Debug\net5.0\Casino.pdb
