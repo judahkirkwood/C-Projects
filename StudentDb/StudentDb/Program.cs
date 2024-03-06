@@ -11,12 +11,11 @@ namespace StudentDb
         {
             using (var ctx = new StudentContext())
             {
-                var stud = new Student() { StudentName = "Bill" };
+                var stud = new Student() { StudentName = "Judah" };
 
                 ctx.Students.Add(stud);
                 ctx.SaveChanges();
             }
-            Console.ReadLine();
         }
     }
 }
