@@ -1,0 +1,3 @@
+C:\Users\Judah Kirkwood\GitHub\C#Projects\EntityFrameworkFinal\EntityFrameworkFinal\obj\Debug\EntityFrameworkFinal.csproj.AssemblyReference.cache
+C:\Users\Judah Kirkwood\GitHub\C#Projects\EntityFrameworkFinal\EntityFrameworkFinal\obj\Debug\EntityFrameworkFinal.csproj.SuggestedBindingRedirects.cache
+C:\Users\Judah Kirkwood\GitHub\C#Projects\EntityFrameworkFinal\EntityFrameworkFinal\obj\Debug\EntityFrameworkFinal.csproj.CoreCompileInputs.cache
