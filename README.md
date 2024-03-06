@@ -1,6 +1,6 @@
 # C-Sharp Projects
 
-These are some of the projects I have been working on that include code in C-Sharp.
+These are some of the projects I have been working on that include code in C-Sharp including ASP.new, .NET Framework and Entity Framework.
 
 
 ## - [Car Insurance](https://github.com/judahkirkwood/CarInsurance)
